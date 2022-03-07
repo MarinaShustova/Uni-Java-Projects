@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17ca007f-9fb8-4fce-9f90-740556ca8c9a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T39UnCHSotXEvDGOZsPlsjWTBA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Present encrypt">
+    <configuration name="Caesar decrypt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Ciphers" />
+      <option name="PROGRAM_PARAMETERS" value="caesar -d 10 caesarEncrypted.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Caesar encrypt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Ciphers" />
+      <option name="PROGRAM_PARAMETERS" value="caesar -e 10 caesarPlain.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Present decrypt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Ciphers" />
+      <option name="PROGRAM_PARAMETERS" value="present -d presentKey.txt presentEncrypted.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Present encrypt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Ciphers" />
+      <option name="PROGRAM_PARAMETERS" value="present -e presentKey.txt ccat.jpg" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Caesar encrypt" />
+      <item itemvalue="Application.Caesar decrypt" />
+      <item itemvalue="Application.Present encrypt" />
+      <item itemvalue="Application.Present decrypt" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ca007f-9fb8-4fce-9f90-740556ca8c9a" name="Default Changelist" comment="" />
+      <created>1571545039230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571545039230</updated>
+      <workItem from="1571545043370" duration="1627000" />
+      <workItem from="1571546724308" duration="4784000" />
+      <workItem from="1571631229951" duration="4949000" />
+      <workItem from="1571837825586" duration="616000" />
+      <workItem from="1572677931639" duration="600000" />
+      <workItem from="1572757525337" duration="24960000" />
+      <workItem from="1572875164529" duration="7232000" />
+      <workItem from="1572921596149" duration="2297000" />
+      <workItem from="1573138878472" duration="194000" />
+      <workItem from="1573272505736" duration="8070000" />
+      <workItem from="1573308488586" duration="12000" />
+      <workItem from="1573524951078" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/present/PresentDecryptor.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/present/ByteArray.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="v1&gt;&gt;4" language="JAVA" />
+        <watch expression="v1&gt;&gt;&gt;4" language="JAVA" />
+        <watch expression="SBOX[(v1&gt;&gt;4)]&lt;&lt;4" language="JAVA" />
+        <watch expression="key.get(7)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

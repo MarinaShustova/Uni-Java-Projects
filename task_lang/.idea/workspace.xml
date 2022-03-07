@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7293f691-9547-42b4-9cb9-3a4ffe558268" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SxRXFxtRgC3rKJdGphIyqSvanY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/gen-visitor" value="true" />
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/language" value="Java" />
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/lib-dir" value="C:\Users\1\IdeaProjects\task_lang\src\antlr" />
+    <property name="$PROJECT_DIR$/src/antlr/ReducedMu.g4::/output-dir" value="C:\Users\1\IdeaProjects\task_lang\gen" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/mu/test.mu" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\IdeaProjects\task_lang\stuff" />
+      <recent name="C:\Users\1\IdeaProjects\task_lang\src\main\antlr4" />
+      <recent name="C:\Users\1\IdeaProjects\task_lang\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="generators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\IdeaProjects\task_lang\src\main\java\generated" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="task_lang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7293f691-9547-42b4-9cb9-3a4ffe558268" name="Default Changelist" comment="" />
+      <created>1570628593479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570628593479</updated>
+      <workItem from="1570628597424" duration="4137000" />
+      <workItem from="1570634814766" duration="1243000" />
+      <workItem from="1570680337623" duration="1802000" />
+      <workItem from="1570690070742" duration="17000" />
+      <workItem from="1570703510108" duration="1631000" />
+      <workItem from="1570708072610" duration="18000" />
+      <workItem from="1571304854046" duration="2709000" />
+      <workItem from="1571466339059" duration="10000" />
+      <workItem from="1571544983673" duration="56000" />
+      <workItem from="1571839543436" duration="1902000" />
+      <workItem from="1571890317621" duration="3864000" />
+      <workItem from="1571899194051" duration="2861000" />
+      <workItem from="1571905305717" duration="4511000" />
+      <workItem from="1572068521743" duration="84000" />
+      <workItem from="1572068735551" duration="3904000" />
+      <workItem from="1572151326953" duration="12229000" />
+      <workItem from="1572343533138" duration="1032000" />
+      <workItem from="1572501235286" duration="626000" />
+      <workItem from="1572503304412" duration="712000" />
+      <workItem from="1572507567205" duration="1253000" />
+      <workItem from="1572514950459" duration="878000" />
+      <workItem from="1572676452763" duration="618000" />
+      <workItem from="1573724013300" duration="609000" />
+      <workItem from="1574261504588" duration="4655000" />
+      <workItem from="1574302722132" duration="4518000" />
+      <workItem from="1574309301086" duration="1177000" />
+      <workItem from="1574315461107" duration="10013000" />
+      <workItem from="1574326923680" duration="2428000" />
+      <workItem from="1574920022005" duration="118000" />
+      <workItem from="1574934965215" duration="1131000" />
+      <workItem from="1575187129512" duration="62000" />
+      <workItem from="1575305548321" duration="350000" />
+      <workItem from="1575372008716" duration="3106000" />
+      <workItem from="1575383310462" duration="10698000" />
+      <workItem from="1575470992670" duration="15401000" />
+      <workItem from="1575510455270" duration="3284000" />
+      <workItem from="1575521509839" duration="22899000" />
+      <workItem from="1587391101617" duration="20000" />
+      <workItem from="1592251152444" duration="7000" />
+      <workItem from="1592323553028" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="701" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1575541935897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="701" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1575541935897" />
+    <state x="443" y="209" width="394" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575541718492">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="209" width="394" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1575541718492" />
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575486243002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1575486243002" />
+    <state width="425" height="466" key="DebuggerActiveHint" timestamp="1575528901521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="425" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1575528901521" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1575542665130">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575542665130" />
+    <state width="1236" height="207" key="GridCell.Tab.0.bottom" timestamp="1575549898211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575549898211" />
+    <state width="1236" height="207" key="GridCell.Tab.0.center" timestamp="1575549898211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575549898211" />
+    <state width="1236" height="207" key="GridCell.Tab.0.left" timestamp="1575549898211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575549898211" />
+    <state width="1236" height="207" key="GridCell.Tab.0.right" timestamp="1575549898211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="207" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575549898211" />
+    <state width="1236" height="210" key="GridCell.Tab.1.bottom" timestamp="1575549898190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="210" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575549898190" />
+    <state width="1236" height="210" key="GridCell.Tab.1.center" timestamp="1575549898190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="210" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1575549898190" />
+    <state width="1236" height="210" key="GridCell.Tab.1.left" timestamp="1575549898190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="210" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1575549898190" />
+    <state width="1236" height="210" key="GridCell.Tab.1.right" timestamp="1575549898190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="210" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1575549898190" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1575375772650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575375772650" />
+    <state x="206" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575542747311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="206" y="79" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1575542747311" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1575372238132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1575372238132" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1575542602437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1575542602437" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1575530449273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1575530449273" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AssignmentVisitor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BooleanAtomVisitor.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AssignmentVisitor.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/AssignmentGenerator.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/LogStatement.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/StatGenerator.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/StatGenerator.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/IfGenerator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/Value.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/ExpressionGenerator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/ValueGenerator.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/RelationalExpressionGenerator.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/Scope.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RelationalExpressionVisitor.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/RelationalExpression.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/VariableReferenceVisitor.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/LogGenerator.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/ValueGenerator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/RelationalExpressionGenerator.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/ExpressionGenerator.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/VariableReference.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/VariableReference.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LogVisitor.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AdditiveExpressionVisitor.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ExpressionVisitor.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/BlockGenerator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/generators/BreakGenerator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ctx.expr()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

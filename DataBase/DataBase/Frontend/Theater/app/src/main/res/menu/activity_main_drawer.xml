@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_playbill"
+            android:icon="@drawable/ic_event"
+            android:title="@string/playbill"/>
+
+        <item
+            android:id="@+id/nav_actors"
+            android:icon="@drawable/ic_person"
+            android:title="@string/actors" />
+
+        <item
+            android:id="@+id/nav_authors"
+            android:icon="@drawable/ic_mode_edit"
+            android:title="@string/authors" />
+        <item
+            android:id="@+id/nav_perfInfo"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/spInfo" />
+    </group>
+
+</menu>

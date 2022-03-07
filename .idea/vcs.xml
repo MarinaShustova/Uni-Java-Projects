@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Automat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutomatUndeterm/Automat-undetermined" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataBase/DataBase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MTK2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Socks5_java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chat2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dirWithLife/g16203_Shustova" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_phrases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jvm-db-client-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+  </component>
+</project>
